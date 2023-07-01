@@ -1,3 +1,3 @@
 function display() {
-  return "HW";
+  return "Hello World";
 }
